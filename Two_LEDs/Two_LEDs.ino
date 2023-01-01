@@ -2,6 +2,10 @@
 //GitHub: @eliseu01
 //LinkedIn: @eliseucoelhoo
 
+//Colaboradores: 
+//Hugo Max Teixeira. GitHub: @hugo-max-m-teixeira
+
+
 //Circuito com 2 LEDs
 
 //No último código,  nós fizemos um circuito onde 1 LED ficava ligando e desligando a cada segundo, ou seja, ficava piscando.
