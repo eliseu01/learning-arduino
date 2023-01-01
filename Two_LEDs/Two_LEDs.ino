@@ -26,7 +26,8 @@
 int led1 = 7; //No início desta linha você nota o "int", que significa "inteiro", que é o tipo desta variável. Após um espaço há o nome da variável "led1", esse é o nome que usaremos ao decorrer do código. Depois do sinal de igualdade tem o valor da variável que é o número da porta ao qual queremos nos referir, neste caso, a porta de número 7.
 //Lembra que o tipo da variável é "inteiro"? 7 é um número do tipo inteiro, por isso o tipo da variável deve ser inteiro, no caso, "int". Entendeu?
 //Resumindo os comentários da linha acima, toda vez que no código eu mencionar "led1", o Arduino vai "entender" que estou me referindo, na verdade, à porta 7.
-//Obs: você pode colocar o nome que quiser, desde de que não haja palavras reservadas, e o valor que quiser, desde de que seja do mesmo tipo da variável. Se variável for do tipo inteiro, coloque um valor do tipo inteiro. 
+//Obs1: você pode colocar o nome que quiser, desde de que não haja palavras reservada e, as variáveis, além de não poderem ter nomes de palavras reservadas, não podem iniciar com número. Ex.: int 2_led = 3 -> causa um erro
+//Obs2: você pode colocar o valor que quiser, desde de que seja do mesmo tipo da variável. Se variável for do tipo inteiro, coloque um valor do tipo inteiro. 
 //Se quiser entender melhor sobre os tipos de variáveis, visite o Documento de Referência Arduino em: https://www.arduino.cc/reference/pt/#variables.
 
 int led2 = 12; //Aqui é mesma execução da linha acima, no entanto, com nome e valor diferentes.
